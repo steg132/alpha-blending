@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		44D6A3F522C837C6005DC32A /* UIColor+RGB.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44D6A3F422C837C6005DC32A /* UIColor+RGB.swift */; };
 		44F8929722C82C8F003B4000 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44F8929622C82C8F003B4000 /* AppDelegate.swift */; };
 		44F8929922C82C8F003B4000 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44F8929822C82C8F003B4000 /* SceneDelegate.swift */; };
 		44F8929B22C82C8F003B4000 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44F8929A22C82C8F003B4000 /* ContentView.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		44D6A3F422C837C6005DC32A /* UIColor+RGB.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIColor+RGB.swift"; sourceTree = "<group>"; };
 		44F8929322C82C8F003B4000 /* Alpha Blending.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Alpha Blending.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		44F8929622C82C8F003B4000 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		44F8929822C82C8F003B4000 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				44F8929622C82C8F003B4000 /* AppDelegate.swift */,
 				44F8929822C82C8F003B4000 /* SceneDelegate.swift */,
 				44F8929A22C82C8F003B4000 /* ContentView.swift */,
+				44D6A3F422C837C6005DC32A /* UIColor+RGB.swift */,
 				44F8929C22C82C91003B4000 /* Assets.xcassets */,
 				44F892A122C82C91003B4000 /* LaunchScreen.storyboard */,
 				44F892A422C82C91003B4000 /* Info.plist */,
@@ -149,6 +152,7 @@
 				44F8929722C82C8F003B4000 /* AppDelegate.swift in Sources */,
 				44F8929922C82C8F003B4000 /* SceneDelegate.swift in Sources */,
 				44F8929B22C82C8F003B4000 /* ContentView.swift in Sources */,
+				44D6A3F522C837C6005DC32A /* UIColor+RGB.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
